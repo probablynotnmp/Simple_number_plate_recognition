@@ -1,6 +1,6 @@
 # NUMBER PLATE RECOGNITION
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-1">
+    <div align="center" class="col-sm mt-3 mt-md-1">
         <img class="img-fluid rounded z-depth-0" src="https://image.shutterstock.com/image-photo/stall-car-number-plates-maker-600w-136531811.jpg">
     </div>
 </div>
